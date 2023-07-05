@@ -1,4 +1,4 @@
 # SmithWaterman
-A C++ implementation of the famous alignment algorithm.
+A C++ implementation of the famous local alignment algorithm.
 
 ## Usage
